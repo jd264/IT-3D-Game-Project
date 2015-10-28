@@ -1,0 +1,3857 @@
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:389: failed to open file models/cube.obj
+sprite.cpp:71: Failed to load sprite image file models/cube_text.png, re: 
+obj.cpp:389: failed to open file models/mountainvillage.obj
+sprite.cpp:71: Failed to load sprite image file models/mountain_text.png, re: 
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:389: failed to open file models/cube.obj
+sprite.cpp:71: Failed to load sprite image file models/cube_text.png, re: 
+obj.cpp:389: failed to open file models/mountainvillage.obj
+sprite.cpp:71: Failed to load sprite image file models/mountain_text.png, re: 
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 1617
+obj.cpp:396: normals: 1049
+obj.cpp:397: texels: 1617
+obj.cpp:398: faces: 3072
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 1617
+obj.cpp:396: normals: 1049
+obj.cpp:397: texels: 1617
+obj.cpp:398: faces: 3072
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:389: failed to open file player.obj
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:389: failed to open file hallway.obj
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:389: failed to open file mountain.obj
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:389: failed to open file mountain.obj
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+obj.cpp:415: cannot draw obj, none specified
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 1617
+obj.cpp:396: normals: 1049
+obj.cpp:397: texels: 1617
+obj.cpp:398: faces: 3072
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.png, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpeg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
+shader.cpp:58: Failed to open shader file: shader/vs1.glsl
+shader.cpp:58: Failed to open shader file: shaders/fs1.glsl
+shader.cpp:32: Shader Link failure: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 7
+obj.cpp:397: texels: 14
+obj.cpp:398: faces: 12
+sprite.cpp:71: Failed to load sprite image file cube_text.png, re: 
+obj.cpp:395: verices: 8
+obj.cpp:396: normals: 4
+obj.cpp:397: texels: 16
+obj.cpp:398: faces: 8
+sprite.cpp:71: Failed to load sprite image file mountain_text.jpg, re: 
